@@ -1,4 +1,4 @@
-<h1 align="center">AES Encryption and Decryption in Java</h1>
+<h1 align="left">AES Encryption and Decryption in Java</h1>
 
 <p align="left" style="font-size: 18.72px;">A simple yet powerful Java application that implements the <strong>Advanced Encryption Standard (AES)</strong> algorithm to perform secure text encryption and decryption.  
 This project demonstrates the practical use of AES symmetric key cryptography for protecting sensitive information in Java.<p>
@@ -16,6 +16,8 @@ This project — <strong>EDcrypt</strong> — provides an educational and functi
     <li>Uses Base64 encoding for readable encrypted output</li>
     <li>Lightweight and dependency-free</li>
 </ul>
+
+<h1 align="left">🚀 Features</h1>
 
 <h1 align="left">⚙️ Installation & Setup</h1>
 
