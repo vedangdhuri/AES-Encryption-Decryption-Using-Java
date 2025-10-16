@@ -1,11 +1,11 @@
 <h1 align="center">AES Encryption and Decryption in Java</h1>
 
-<p align="left" style="font-size: 18.72px;">A simple yet powerful Java application that implements the <strong>Advanced Encryption Standard (AES)<strong> algorithm to perform secure text encryption and decryption.  
+<p align="left" style="font-size: 18.72px;">A simple yet powerful Java application that implements the <strong>Advanced Encryption Standard (AES)</strong> algorithm to perform secure text encryption and decryption.  
 This project demonstrates the practical use of AES symmetric key cryptography for protecting sensitive information in Java.<p>
 
 <h1 align="left">📘 Description</h1>
 
-<p align="left" style="font-size: 18.72px;"><strong>AES (Advanced Encryption Standard)<strong> is a symmetric encryption algorithm widely used for securing data.  
+<p align="left" style="font-size: 18.72px;"><strong>AES (Advanced Encryption Standard)</strong> is a symmetric encryption algorithm widely used for securing data.  
 This project — <strong>EDcrypt</strong> — provides an educational and functional example of how AES can be implemented in Java using the built-in `javax.crypto` package.</p>
 
 <h1 align="left">🚀 Features</h1>
