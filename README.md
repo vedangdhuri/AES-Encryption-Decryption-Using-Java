@@ -80,3 +80,8 @@ Decrypted text: Hello Vedang
 
 <h1>📜 License</h1>
 <p>This project is licensed under the <a href="./LICENSE" target="_blank"><strong>MIT License</strong></a>.</p>
+
+<h1 align="left">📜 Screenshot</h1>
+<div align="center">
+   <img src="https://github.com/vedangdhuri/images/blob/main/EDcrypt.png?raw=true" alt="EDcryptIMG">
+</div>
