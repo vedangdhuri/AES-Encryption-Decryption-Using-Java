@@ -17,7 +17,17 @@ This project — <strong>EDcrypt</strong> — provides an educational and functi
     <li>Lightweight and dependency-free</li>
 </ul>
 
-<h1 align="left">🚀 Features</h1>
+<h1 align="left">🛠️ Tech Stack</h1>
+<div>
+    <h4>Language : </h4>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+</div>
+<div>
+    <h4>Code Editor : </h4>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VScode">
+    <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ-IDEA">
+</div>
+
 
 <h1 align="left">⚙️ Installation & Setup</h1>
 
